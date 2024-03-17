@@ -1,1 +1,1 @@
-The application for the Ratchet and Clank project. Missing bineries and content folders due to file size issues with github... This should work without them.
+The application for the Ratchet and Clank project. Missing bineries and content folders due to file size issues with github... This will not work yet. So please don't download until additional folders are uploaded.
